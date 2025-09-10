@@ -1,0 +1,27 @@
+Cara install di xampp seperti biasa disarankan php 7.4 :
+1. Download
+2. Extrac File
+3. Pindahkan folder app ke Htdoc
+4. Buat DB, Import db
+5. Seting koneksi db, jika menggunakan xampp : User : root, Password : Kosongin, port :kosongin, nama db: menyesuaikan
+6. Panggil nama folder di browser
+7. Login Aplikasi
+
+Login administrator :
+User : admin
+Pass : admin123
+
+Login User
+User : User
+Pass : 12345
+
+
+Login Supervisor
+User : Supervisor
+Pass : SUpervisor
+
+
+
+Jika teman-teman ingin dalam Bahasa Indonesia, dapat berdonasi cukup IDR 150K (Support Setting Via Anydesk Remote)
+agar lebih giat mengembangkan aplikasi. Aplikasi ini oleh rukovoditel.net aplikasi opensource.
+Nengpli :089617178899

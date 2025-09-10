@@ -1,0 +1,878 @@
+[08-Aug-2023 08:14:45 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:14:45 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:14:45 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:14:45 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:14:45 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:16:09 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:16:09 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:16:09 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:16:09 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:16:09 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:26:52 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:26:52 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:26:52 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:26:52 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:26:52 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:27:31 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:29:42 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:29:42 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:29:42 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:29:42 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:29:42 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:30:05 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:30:05 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:30:05 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:30:05 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:30:05 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:30:22 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:30:22 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:30:22 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:30:22 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:30:22 Asia/Pontianak] PHP Warning:  Undefined array key "exclude_values_not_in_listing" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/reports/filters_panels.php on line 208
+[08-Aug-2023 08:34:05 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 08:34:09 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 08:36:53 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:37:36 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:37:46 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:37:47 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:38:05 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:38:32 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:38:54 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:39:09 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:39:31 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:39:49 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:40:14 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:40:29 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:40:41 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 08:41:00 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 09:11:01 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 09:27:10 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 09:28:02 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 09:28:12 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 09:28:36 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 09:28:50 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 09:28:59 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 09:31:01 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 09:31:09 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 09:31:10 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 09:31:11 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 09:31:35 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 09:31:53 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 09:33:11 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 09:33:49 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 09:35:26 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 09:36:11 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 09:36:14 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 09:41:45 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/change_user_password.php(64): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#6 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 09:42:32 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/change_user_password.php(64): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#6 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 09:42:35 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/change_user_password.php(64): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#6 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 10:11:17 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 10:11:21 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 10:17:06 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:17:14 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:17:29 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_FIELDTYPE_3DVIEWER_TITLE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php:10
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fields_types.php(684): fieldtype_3dviewer->__construct()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/fields_form.php(54): fields_types::get_choices()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(27): require('/home/dimz7941/...')
+#3 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:17:45 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_FIELDTYPE_3DVIEWER_TITLE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php:10
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fields_types.php(684): fieldtype_3dviewer->__construct()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/fields_form.php(54): fields_types::get_choices()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(27): require('/home/dimz7941/...')
+#3 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:20:12 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:20:12 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:22:46 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:22:46 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:22:46 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:22:46 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:22:50 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:22:57 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:22:57 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:23:21 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_ENTER_RECORDS_ID_BY_COMMA - assumed 'TEXT_ENTER_RECORDS_ID_BY_COMMA' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_entity.php on line 40
+[08-Aug-2023 10:23:46 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:23:49 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:23:49 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:24:03 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:24:53 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:24:53 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:24:56 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:24:59 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:24:59 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:25:14 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_ENTER_RECORDS_ID_BY_COMMA - assumed 'TEXT_ENTER_RECORDS_ID_BY_COMMA' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_entity.php on line 40
+[08-Aug-2023 10:25:25 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:25:32 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:25:32 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:26:33 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:26:58 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:26:58 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:27:15 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_ENTER_RECORDS_ID_BY_COMMA - assumed 'TEXT_ENTER_RECORDS_ID_BY_COMMA' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_entity.php on line 40
+[08-Aug-2023 10:27:41 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:27:46 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:27:46 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:27:51 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:27:58 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:27:58 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:27:58 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_ENTER_RECORDS_ID_BY_COMMA - assumed 'TEXT_ENTER_RECORDS_ID_BY_COMMA' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_entity.php on line 40
+[08-Aug-2023 10:28:03 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:28:31 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:28:31 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:28:31 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:28:31 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:28:33 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:28:38 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:28:38 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:28:43 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:28:46 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:28:46 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:28:56 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:29:06 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:29:06 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:29:11 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:29:16 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:29:16 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:29:20 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:29:45 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:29:47 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:29:48 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:29:51 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:31:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_init() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php:7
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_core.php(271): db_connect()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_top.php(20): require('/home/dimz7941/...')
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(3): require('/home/dimz7941/...')
+#3 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php on line 7
+[08-Aug-2023 10:31:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_init() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php:7
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_core.php(271): db_connect()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_top.php(20): require('/home/dimz7941/...')
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(3): require('/home/dimz7941/...')
+#3 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php on line 7
+[08-Aug-2023 10:31:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_init() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php:7
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_core.php(271): db_connect()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_top.php(20): require('/home/dimz7941/...')
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(3): require('/home/dimz7941/...')
+#3 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php on line 7
+[08-Aug-2023 10:31:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_init() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php:7
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_core.php(271): db_connect()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_top.php(20): require('/home/dimz7941/...')
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(3): require('/home/dimz7941/...')
+#3 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php on line 7
+[08-Aug-2023 10:32:44 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:32:44 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:32:44 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:32:44 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:32:49 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:32:49 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:32:49 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:32:49 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:34:01 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:34:01 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:34:01 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:34:01 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:34:15 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:34:15 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:34:15 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:34:15 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:34:22 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:34:22 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:34:22 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:34:22 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:34:45 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:34:47 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:34:52 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:35:28 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:37:30 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_LISTING_TYPE" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php:158
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:38:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_init() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php:7
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_core.php(271): db_connect()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_top.php(20): require('/home/dimz7941/...')
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(3): require('/home/dimz7941/...')
+#3 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php on line 7
+[08-Aug-2023 10:38:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_init() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php:7
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_core.php(271): db_connect()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_top.php(20): require('/home/dimz7941/...')
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(3): require('/home/dimz7941/...')
+#3 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php on line 7
+[08-Aug-2023 10:38:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_init() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php:7
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_core.php(271): db_connect()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_top.php(20): require('/home/dimz7941/...')
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(3): require('/home/dimz7941/...')
+#3 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php on line 7
+[08-Aug-2023 10:38:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_init() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php:7
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_core.php(271): db_connect()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_top.php(20): require('/home/dimz7941/...')
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(3): require('/home/dimz7941/...')
+#3 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php on line 7
+[08-Aug-2023 10:38:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_init() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php:7
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_core.php(271): db_connect()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/application_top.php(20): require('/home/dimz7941/...')
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(3): require('/home/dimz7941/...')
+#3 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/functions/database.php on line 7
+[08-Aug-2023 10:38:34 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:38:34 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:38:34 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:38:34 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:38:39 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:38:39 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:38:39 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:39:08 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:39:08 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:39:08 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:39:14 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:39:14 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:39:14 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:39:14 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:39:16 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:39:16 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:39:16 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:39:39 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:39:39 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:39:39 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:39:43 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:39:43 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:39:43 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:39:43 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:39:48 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:39:48 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:39:48 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:04 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:04 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:04 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:08 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:40:08 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:40:08 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:40:08 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:40:12 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:12 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:12 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:28 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:28 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:28 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:36 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:40:36 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:40:36 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:40:36 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:40:39 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:39 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:39 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:56 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:56 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:40:56 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:41:05 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:41:05 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:41:05 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:41:05 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:41:09 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:41:09 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:41:09 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:41:23 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:41:23 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:41:23 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:41:29 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:41:29 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:41:29 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:41:29 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:41:30 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:41:30 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:41:30 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:41:30 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:41:31 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:41:31 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:41:31 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:41:31 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:41:36 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:41:36 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:41:36 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:41:36 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:42:08 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:42:08 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:42:08 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:42:08 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:42:22 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:42:22 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:42:22 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:42:22 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:42:28 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:42:28 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:42:28 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:42:42 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:42:42 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:42:42 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:42:52 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:42:52 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:42:52 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:42:52 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:42:54 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:42:54 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:42:54 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:11 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:11 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:11 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:17 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:43:17 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:43:17 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:43:17 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:43:19 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:19 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:19 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:23 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:43:23 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:43:23 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:43:23 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:43:25 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:25 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:25 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:39 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:39 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:39 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:43 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:43:43 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:43:43 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:43:43 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:43:45 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:45 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:45 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:59 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:59 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:43:59 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:44:03 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:44:03 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:44:03 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:44:03 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:44:05 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:44:05 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:44:05 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:44:21 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:44:21 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:44:21 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_VIEW_ALL_RECORDS - assumed 'TEXT_VIEW_ALL_RECORDS' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/model/access_groups.php on line 62
+[08-Aug-2023 10:44:36 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:44:36 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:44:36 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:44:36 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:44:38 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:44:41 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:44:41 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:44:44 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:44:52 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:44:52 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:44:52 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:44:52 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:44:54 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:45:10 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:45:10 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:45:10 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:45:10 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:45:30 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:45:30 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:45:30 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:45:30 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:45:32 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:45:35 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:45:35 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:45:40 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:45:42 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:45:42 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:45:47 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:45:58 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:45:58 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:46:02 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:46:05 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:46:05 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:46:08 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:46:17 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:46:17 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:46:27 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33 (70333). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:46:28 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33 (70333). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:46:30 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33 (70333). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:48:28 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33 (70333). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:48:30 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33 (70333). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:48:31 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33 (70333). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:48:31 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33 (70333). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:48:31 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33 (70333). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:48:32 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33 (70333). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:48:32 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33 (70333). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 10:48:32 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:48:32 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:48:40 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:48:40 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:48:44 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:48:57 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:48:57 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:48:57 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:48:57 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:48:59 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:49:02 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:49:02 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:49:06 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:49:26 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_LISTING_TYPE - assumed 'TEXT_LISTING_TYPE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 158
+[08-Aug-2023 10:49:26 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_DISPLAY - assumed 'TEXT_DISPLAY' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 189
+[08-Aug-2023 10:49:26 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST_INFO' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:49:26 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST - assumed 'TEXT_NUMBER_DISPLAYED_CHARACTERS_IN_LIST' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/entities_configuration.php on line 207
+[08-Aug-2023 10:49:28 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 10:49:31 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_3DVIEWER_TITLE - assumed 'TEXT_FIELDTYPE_3DVIEWER_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_3dviewer.php on line 10
+[08-Aug-2023 10:49:31 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FIELDTYPE_RELATED_MAIL_TITLE - assumed 'TEXT_FIELDTYPE_RELATED_MAIL_TITLE' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/fieldstypes/fieldtype_related_mail.php on line 10
+[08-Aug-2023 10:49:36 Asia/Pontianak] PHP Warning:  Use of undefined constant TEXT_FORM_ADD_IN - assumed 'TEXT_FORM_ADD_IN' (this will throw an Error in a future version of PHP) in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/entities/views/forms.php on line 30
+[08-Aug-2023 13:12:43 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/change_user_password.php(64): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#6 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 13:12:46 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/change_user_password.php(64): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#6 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 13:12:55 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/change_user_password.php(64): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#6 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 13:22:06 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/change_user_password.php(64): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#6 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 13:36:59 Asia/Pontianak] PHP Warning:  filesize(): stat failed for /home/dimz7941/public_html/it-tools.dimensinetwork.com/tmp/21691476619.zip in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/export_attachments.php on line 64
+[08-Aug-2023 13:36:59 Asia/Pontianak] PHP Warning:  readfile(/home/dimz7941/public_html/it-tools.dimensinetwork.com/tmp/21691476619.zip): Failed to open stream: No such file or directory in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/export_attachments.php on line 68
+[08-Aug-2023 13:36:59 Asia/Pontianak] PHP Warning:  unlink(/home/dimz7941/public_html/it-tools.dimensinetwork.com/tmp/21691476619.zip): No such file or directory in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/export_attachments.php on line 70
+[08-Aug-2023 13:48:22 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[08-Aug-2023 16:42:52 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_ENTER_PASSWORD_MANDATORY" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/configuration/views/public_users_registration.php:45
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/configuration/views/public_users_registration.php on line 45
+[08-Aug-2023 16:43:58 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Undefined constant "TEXT_ENTER_PASSWORD_MANDATORY" in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/configuration/views/public_users_registration.php:45
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/template/layout.php(154): require()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(38): require('/home/dimz7941/...')
+#2 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/configuration/views/public_users_registration.php on line 45
+[08-Aug-2023 19:34:31 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/change_user_password.php(64): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#6 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[09-Aug-2023 05:16:42 Asia/Pontianak] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : html in Entity, line: 3 in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Html.php on line 660
+[16-Aug-2023 11:41:14 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[16-Aug-2023 11:41:19 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[05-Sep-2023 10:42:58 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[07-Sep-2023 18:47:18 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[07-Sep-2023 18:47:23 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[07-Sep-2023 18:49:42 Asia/Pontianak] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php:874
+Stack trace:
+#0 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1680): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/classes/users/users.php(493): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/components/crete_new_user.php(27): users::send_email()
+#5 /home/dimz7941/public_html/it-tools.dimensinetwork.com/modules/items/actions/items.php(169): require('/home/dimz7941/...')
+#6 /home/dimz7941/public_html/it-tools.dimensinetwork.com/index.php(20): require('/home/dimz7941/...')
+#7 {main}
+  thrown in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPMailer/6.8.0/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 874
+[06-Oct-2023 11:00:14 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 09:27:56 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 09:35:08 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 10:05:00 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 10:58:34 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 11:31:37 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 11:54:54 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 12:52:09 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 12:52:44 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 12:52:44 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 12:52:44 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 12:55:40 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 13:49:43 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 13:49:43 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 13:49:43 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 14:34:37 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 15:02:44 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 15:02:44 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 15:02:44 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 15:35:21 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 16:07:14 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 17:59:13 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 18:14:26 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
+[07-Oct-2023 18:30:27 Asia/Pontianak] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34 (70234). in /home/dimz7941/public_html/it-tools.dimensinetwork.com/includes/libs/PHPSpreadsheet/1.27.0/vendor/composer/platform_check.php on line 24
